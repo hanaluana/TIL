@@ -5,7 +5,7 @@ title: Start-up Camp 1
 # Day 1: 입학식
 새로운 사람들과의 만남, 조 구성하던 날.
 
-# Day 2: 
+# Day 2: Hello, SW World!
 개인 비전 수립하던 날. 나에 대해 생각하던 날.
 
 # Day 3: 로봇퀘스트
