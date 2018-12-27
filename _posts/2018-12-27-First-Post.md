@@ -8,7 +8,7 @@ title: Start-up Camp 1
 | 문제정의(Define) | 해결하고자 하는 문제를 정의하기 | 1. 관점 서술문 |
 | 아이디어 도출 (Ideate) | 아이디어 표출하기 | 1. 마인드맵 <br>2. 아이디어보드<br>3. 스토리텔링 |
 | 시제품 시작 (Prototype) | 아이디어 구현하기 | 1. Mockup |
-| 테스트 (Test) | 피드백  | 1. World Cafe 2. Pivot |
+| 테스트 (Test) | 피드백  | 1. World Cafe <br>2. Pivot |
 
 
 
