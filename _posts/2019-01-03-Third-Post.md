@@ -6,7 +6,6 @@ title: Java Basic 1
 ## 직진 로봇 문제
 
 ![Robot Problem] (https://raw.githubusercontent.com/hanaluana/TIL/master/imgs/robot1.png)
-![Robot Problem] (../imgs/robot1.png)
 
 ```java
 package basicjava;
