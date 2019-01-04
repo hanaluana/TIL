@@ -1,5 +1,7 @@
 main:
-- title: about us
+- title: home
   url: https://hanaluana.github.io
-- title: team
-  url: https://gitpitch.com/whitejcme/public
+- title: TIL
+  url: https://hanaluana.github.io/TIL
+- title: bloter
+  url: https://hanaluana.github.io/bloter
